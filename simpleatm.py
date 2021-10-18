@@ -1,8 +1,8 @@
 def main():
     pinCode = ["1234", "1999", "2424", "1985",
                "5555"]  # data of the account holders
-    accountHoldersName = ["harry den", "zain ul abideen",
-                          "waseema shaukat", "ayesha mukhtar", "khalid mahmood"]
+    accountHoldersName = ["enel", "kofi",
+                          "Ama", "Bessy", "Theo"]
     accountNumber = ['1353', '199281', "182838", "185597", "667432"]
     balance = [567000, 21873, 2341871, 275638, 91820]
 
